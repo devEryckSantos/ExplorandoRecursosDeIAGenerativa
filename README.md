@@ -11,9 +11,13 @@ Projeto criado para fins didáticos junto para o Bootcamp Decola Tech 2025 da Av
 ## Análise das Imagens
 A escolha de diferentes elementos e cenários me permitiu explorar toda a capacidade dessa funcionalidade. Por exemplo:
 
-- **O Hobbit**: O livro aberto, junto a ilustação, mais o marca-páginas deu a Inteligência Articial a informações o suficiente não apenas para reconhecer o livro, mas também identificar em qual capítulo está aberto e ainda reconhecer elemente visuais das ilustrações nas páginas e no marca-página.
-- **Figuras da Disney**: A mistura de diferentes personagens foi um verdadeiro teste da capacidade de reconhecimento dessa tecnolgia. Ela foi capaz não apenas de identificar quais eram os personagens ilustrados naqueles bonecos, mas também a grande empresa por trás da criação de cada um.
+- **O Hobbit**: O livro aberto, junto a ilustação, mais o marca-páginas deu a Inteligência Articial a informações o suficiente não apenas para reconhecer o livro, mas também identificar em qual capítulo está aberto e ainda reconhecer elemente visuais das ilustrações nas páginas e no marca-página. 
+![O Hobbit](/output/O%20Hobbit.jpg) 
+- **Figuras da Disney**: A mistura de diferentes personagens foi um verdadeiro teste da capacidade de reconhecimento dessa tecnolgia. Ela foi capaz não apenas de identificar quais eram os personagens ilustrados naqueles bonecos, mas também a grande empresa por trás da criação de cada um.  
+![Disney](/output/Disney.jpg)
+
 - **Colecionáveis da série Friends**: Aqui estpa um grande desafio proposto a IA por trás dessa tecnologia: reconhecer uma variedade de itens personalizados de uma antiga série de TV. Além de também ser capaz de ler a atmosfera presente naquele local.
+![Friends](/output/Friends.jpg)
 
 ## Insights e Possibilidades
 - A análise de imagens com IA nos permite explorar informações muitas vezes ocultas ou pouco evidentes em um cenário.
