@@ -16,7 +16,7 @@ A escolha de diferentes elementos e cenários me permitiu explorar toda a capaci
 - **Figuras da Disney**: A mistura de diferentes personagens foi um verdadeiro teste da capacidade de reconhecimento dessa tecnolgia. Ela foi capaz não apenas de identificar quais eram os personagens ilustrados naqueles bonecos, mas também a grande empresa por trás da criação de cada um.  
 ![Disney](/output/Disney.jpg)
 
-- **Colecionáveis da série Friends**: Aqui estpa um grande desafio proposto a IA por trás dessa tecnologia: reconhecer uma variedade de itens personalizados de uma antiga série de TV. Além de também ser capaz de ler a atmosfera presente naquele local.
+- **Colecionáveis da série Friends**: Aqui estpa um grande desafio proposto a IA por trás dessa tecnologia: reconhecer uma variedade de itens personalizados de uma antiga série de TV. Além de também ser capaz de ler a atmosfera presente naquele local.  
 ![Friends](/output/Friends.jpg)
 
 ## Insights e Possibilidades
