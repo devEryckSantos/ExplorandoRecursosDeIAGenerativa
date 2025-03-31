@@ -13,11 +13,12 @@ A escolha de diferentes elementos e cenários me permitiu explorar toda a capaci
 
 - **O Hobbit**: O livro aberto, junto a ilustação, mais o marca-páginas deu a Inteligência Articial a informações o suficiente não apenas para reconhecer o livro, mas também identificar em qual capítulo está aberto e ainda reconhecer elemente visuais das ilustrações nas páginas e no marca-página. 
 ![O Hobbit](/output/O%20Hobbit.jpg) 
-- **Figuras da Disney**: A mistura de diferentes personagens foi um verdadeiro teste da capacidade de reconhecimento dessa tecnolgia. Ela foi capaz não apenas de identificar quais eram os personagens ilustrados naqueles bonecos, mas também a grande empresa por trás da criação de cada um.  
-![Disney](/output/Disney.jpg)
 
-- **Colecionáveis da série Friends**: Aqui estpa um grande desafio proposto a IA por trás dessa tecnologia: reconhecer uma variedade de itens personalizados de uma antiga série de TV. Além de também ser capaz de ler a atmosfera presente naquele local.  
-![Friends](/output/Friends.jpg)
+- **Livros de Agatha Christie**: Nesta situação, temos 3 livros da autora Agata Crhistie sobrepostos um sobre o outro em cima do que parece ser algumas almofadas. Embora os livros atrás estejam com os títulos escondidos, a IA ainda foi capas de identificar parcialmente o título do segundo livro.  
+![Friends](/output/Agatha.jpg)
+
+- **Estante com livros diversos**: O desafio aumenta quando a IA precisa identificar vários livros expostos em uma livraria. Aqui percebemos sua grande capacidade perceptiva.
+![Disney](/output/Livros.jpg)
 
 ## Insights e Possibilidades
 - A análise de imagens com IA nos permite explorar informações muitas vezes ocultas ou pouco evidentes em um cenário.
